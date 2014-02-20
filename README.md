@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ded/qwery](http://github.com/ded/qwery). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ded-qwery`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 ## Qwery
 Qwery is a modern selector engine built on top of `querySelectorAll` giving you practical utility.
 
